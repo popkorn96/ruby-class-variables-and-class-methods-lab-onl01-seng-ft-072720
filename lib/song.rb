@@ -22,6 +22,6 @@ def self.genres
   @@genres 
 end
 def self.genre_count
-  @genre.size 
+  @genre.length
 end
 end

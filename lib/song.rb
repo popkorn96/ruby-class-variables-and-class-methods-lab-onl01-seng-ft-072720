@@ -34,10 +34,6 @@ def self.genre_count
   end
   genre_count
 end
-
-
-
-
 def self.artist_count
   artist_count = {}
   @@artists. each do |artist|
@@ -48,6 +44,5 @@ def self.artist_count
     end
   end 
   artist_count
-
 end
 end

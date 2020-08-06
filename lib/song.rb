@@ -6,9 +6,6 @@ class Song
   def self.name
     puts "hit me baby one more time"
   end
-
-    @@album_count
-  end
   def self.artists
     puts "Brittany Spears"
   end

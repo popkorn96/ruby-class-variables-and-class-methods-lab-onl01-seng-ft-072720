@@ -29,7 +29,7 @@ def self.genre_count
     else 
       genre_count[genre] = 1
     end
-    genre_coung[genre]
+    genre_count[genre]
   end
 end
 end

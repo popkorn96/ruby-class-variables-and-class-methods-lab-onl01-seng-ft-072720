@@ -4,4 +4,5 @@ attr_accessor :name, :artist, :genre
 @@song_genres = []
 @@song_count = 0 
 
+
 end
